@@ -1,0 +1,6 @@
+RECYCLE_BIN/*
+gospell
+bin/
+Dockerfile
+*.md
+config/
